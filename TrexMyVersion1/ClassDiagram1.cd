@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TrexMyVersion1.Game1" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAFEAAAAAAAwAAAACAAAAAAAEAAAgAQAAAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrexMyVersion1.Circle" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrexMyVersion1.Global" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAABACAAAAAAAABBACAAAAAAA=</HashCode>
+      <FileName>Global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrexMyVersion1.Program" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrexMyVersion1.Tools" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAABAAQAEQAQKAAAAAAEAACAAgQBIEAICAEAMARA=</HashCode>
+      <FileName>Tools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrexMyVersion1.Objects.Animation" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEABAAAAAAAAAAAAgAAAAAAAAAAAAAAAQABAAA=</HashCode>
+      <FileName>Objects\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrexMyVersion1.Objects.Biker" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAgAAEAAAAAgAABAAAAAAAAIAIAAAACAAEAAAAEgAE=</HashCode>
+      <FileName>Objects\Biker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrexMyVersion1.Objects.DrawObj" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAIAgAAIAAAAGAAAAgACAAAQAAAgAACA=</HashCode>
+      <FileName>Objects\DrawObj.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TrexMyVersion1.Objects.abstractKeys" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACIAAAAAAAAAAAAAAAAgAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Objects\Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrexMyVersion1.Objects.UserKeys" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACIAAAACAAAAAAAAAAAgAAAIAAAACACAAgAAgAI=</HashCode>
+      <FileName>Objects\Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrexMyVersion1.Objects.MovingObj" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAQAAAAAAAAEAAQAAAAAAAAAEAAA=</HashCode>
+      <FileName>Objects\MovingObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrexMyVersion1.Objects.Obstacle" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAgAABAAAAAAAAAAAAQAEAAg=</HashCode>
+      <FileName>Objects\Obstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrexMyVersion1.Physics.Collision" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgGAAAAAAAAAAAAAAAAIABAACAEAAAAAAAAABA=</HashCode>
+      <FileName>Physics\Collision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrexMyVersion1.Physics.Engine" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAABAAQAAAAAAAAQAAFAQAAAAEAAQAABgQAAAEAAAA=</HashCode>
+      <FileName>Physics\Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrexMyVersion1.Physics.PhysicsManager" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAKAAAAAAAACAAAAAgAAAAAAARIAAAAAAAAAEA=</HashCode>
+      <FileName>Physics\PhysicsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrexMyVersion1.View.Camera" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAJAAAAAAAAAAAAAAEAAkAAA=</HashCode>
+      <FileName>View\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrexMyVersion1.View.Level" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAIAAAAgAEAAAgAAAAAAAA=</HashCode>
+      <FileName>View\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TrexMyVersion1.Objects.IFocous" Collapsed="true">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAIAgAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Objects\DrawObj.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="TrexMyVersion1.Objects.order" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TrexMyVersion1.Physics.collisionState" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Physics\Collision.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="TrexMyVersion1.DlgDraw" Collapsed="true">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tools.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="TrexMyVersion1.DlgUpdate" Collapsed="true">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tools.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
